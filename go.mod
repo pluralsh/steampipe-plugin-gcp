@@ -1,8 +1,6 @@
-module github.com/turbot/steampipe-plugin-gcp
+module github.com/pluralsh/steampipe-plugin-gcp
 
-go 1.24
-
-toolchain go1.24.1
+go 1.26
 
 require (
 	cloud.google.com/go/aiplatform v1.69.0
