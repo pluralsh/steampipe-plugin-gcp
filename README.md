@@ -7,7 +7,7 @@ Use SQL to query infrastructure including servers, networks, databases and more 
 - **[Get started →](https://hub.steampipe.io/plugins/turbot/gcp)**
 - Documentation: [Table definitions & examples](https://hub.steampipe.io/plugins/turbot/gcp/tables)
 - Community: [Join #steampipe on Slack →](https://turbot.com/community/join)
-- Get involved: [Issues](https://github.com/turbot/steampipe-plugin-gcp/issues)
+- Get involved: [Issues](https://github.com/pluralsh/steampipe-plugin-gcp/issues)
 
 ## Quick start
 
@@ -49,7 +49,7 @@ Prerequisites:
 Clone:
 
 ```sh
-git clone https://github.com/turbot/steampipe-plugin-gcp.git
+git clone https://github.com/pluralsh/steampipe-plugin-gcp.git
 cd steampipe-plugin-gcp
 ```
 
@@ -91,4 +91,4 @@ This repository is published under the [Apache 2.0](https://www.apache.org/licen
 Want to help but don't know where to start? Pick up one of the `help wanted` issues:
 
 - [Steampipe](https://github.com/turbot/steampipe/labels/help%20wanted)
-- [GCP Plugin](https://github.com/turbot/steampipe-plugin-gcp/labels/help%20wanted)
+- [GCP Plugin](https://github.com/pluralsh/steampipe-plugin-gcp/labels/help%20wanted)
