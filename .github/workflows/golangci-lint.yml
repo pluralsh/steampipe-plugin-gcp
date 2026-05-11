@@ -12,6 +12,6 @@ permissions:
 
 jobs:
   golangci_lint_workflow:
-    uses: pluralsh/steampipe-workflows/.github/workflows/golangci-lint.yml@b76001ea63275b69b80368fb948bb629fabaf8f2
+    uses: pluralsh/steampipe-workflows/.github/workflows/golangci-lint.yml@c4ad5ad015d52a5ab955d5f3b2949422a926e06c
     with:
       timeout: 10m
