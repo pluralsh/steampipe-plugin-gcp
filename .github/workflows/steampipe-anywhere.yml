@@ -16,4 +16,4 @@ permissions:
 
 jobs:
   anywhere_publish_workflow:
-    uses: pluralsh/steampipe-workflows/.github/workflows/steampipe-anywhere.yml@ce40b236d0b806c2019464e198974a234656560b
+    uses: pluralsh/steampipe-workflows/.github/workflows/steampipe-anywhere.yml@f52a881e6bb5226f146ac1da13639a70b40ad9c1
